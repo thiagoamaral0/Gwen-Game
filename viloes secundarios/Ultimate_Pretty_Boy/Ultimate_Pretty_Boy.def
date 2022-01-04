@@ -1,0 +1,32 @@
+
+
+[Info]
+name ="Ultimate_Pretty_Boy"
+displayname ="Pretty Boy"
+versiondate =6,14,2016
+mugenversion =1.0
+author ="Electro"
+;localcoord = 427,240
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =Ultimate_Pretty_Boy.sff
+anim =Ultimate_Pretty_Boy.air
+sound =Ultimate_Pretty_Boy.snd
+cmd =Ultimate_Pretty_Boy.cmd
+cns =Ultimate_Pretty_Boy.cns
+stcommon =common1.cns
+st =Ultimate_Pretty_Boy.cns
+pal1=PrettyBoy.act
+pal2=Red.act
+pal3=Blue.act
+pal4=Purple.act
+pal5=Green.act
+pal6=Orange.act
+st1=Interactive Mugen.st
+st2=Statedef -2.st
+st3=Finishers.st
+
+[Arcade]
+intro.storyboard =
+ending.storyboard =

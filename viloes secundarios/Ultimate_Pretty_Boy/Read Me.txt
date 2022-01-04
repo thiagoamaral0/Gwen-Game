@@ -1,0 +1,78 @@
+Ultimate Zangief made by Electro
+
+Version date : 4/28/2015
+
+All my works are open source so feel free use this chaarcter however you want. Credit is nice but not needed.
+
+Ultimate Zangief is combination of all his Street Fighter 2 apperances, but his gameplay is more like 
+Capcom's VS series.
+
+Credit :
+
+Cyberbot Nuke Blast FX sprites by Kong.
+Ground explode sprites by Kong.
+
+Mr. Bear sprites by The_None.
+
+-------------------------Move List------------------
+
+------Hyper Combos---------
+
+Ultimate Red Cyclone : F, DF, D, any two kick buttons (level 1 power) (must be done in the air)
+
+Final Atomic Buster : circle motion & any two punch buttons together. (level 1 power)
+
+Soviet Power : B, D, F, any two kick bottons together.  (level 1 power)
+
+Medieval Times : D, F, Punch + Kick
+
+Ultimate Final Atomic Buster : F, D, F, any two punch buttons  (level 3 power)
+
+------Special Moves--------
+
+Spinning pile driver : cicle motion & any punch button
+
+Mad Charge : B, D, F, any kick button
+
+Spinning clothesline : Any two punch buttons together
+
+Communist Fist : Any two kick buttons together
+
+Violent palm : F, D, F, any punch button
+
+------Throws------
+
+Body Slam : hold forward then hit strong kick
+Suplex : hold forward then hit medium kick
+Bite : hold forward then hit light kick  (mash buttons only to get extra hits)
+Stomach Pump : hold forward + down then hit strong kick  (mash buttons only to get extra hits)
+Back Slam : hold forward or backward then hit strong punch
+Pile Driver : hold forward or backward then hit medium punch
+Face Smash : hold forward then hit light punch  (mash buttons only to get extra hits)
+Flip Throw : hold forward + down then hit medium punch
+Ally-Oop : hold forward + down then hit strong punch
+Red Cyclone : hold forward then hit strong kick  (must be done in the air)
+Air Plie Driver : hold forward then hit strong punch  (must be done in the air)
+
+
+------Special Techniques------
+
+Close standing weak chop can hit laying down opponents many times
+Taunt can hit laying down opponents many times
+Crouching weak kick can hit down opponents a few times
+The Press : hold forward and hit strong punch  (this attack can only be blocked by standing guard)
+Knee Drop : hold down and hit weak kick  (must be done in the air)
+Splash : hold down and hit strong punch  (must be done in the air)
+
+
+
+
+
+
+
+
+
+
+
+
+

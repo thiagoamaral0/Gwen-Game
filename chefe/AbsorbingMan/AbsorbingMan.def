@@ -1,0 +1,38 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Absorbing Man"
+displayname = "Absorbing Man"
+versiondate = 2011
+mugenversion = 1.0
+author = "RobsonMSH"
+pal.defaults = 1,2
+
+[Files]
+sprite = Sff2.sff
+anim = Air.air
+sound = Snd.snd
+cmd = Cmd.cmd
+cns = Constants.cns
+stcommon = common1.cns
+st = System.cns
+st1 = Normal.cns
+st2 = Specials.cns
+st3 = Supers.cns
+st4 = Helpers.cns
+pal1 = 1.act
+pal2 = 2.act
+pal3 = 3.act
+pal4 = 4.act
+pal5 = 5.act
+pal6 = 6.act
+pal7 = 7.act
+pal8 = 8.act
+pal9 = 9.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

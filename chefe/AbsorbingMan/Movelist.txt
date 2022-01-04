@@ -1,0 +1,28 @@
+| Absorbing Man by RobsonMSH |
+sprites by: RobsonMSH.
+credits: Coding is not my strong point, so I used the beauty made by Falcon Rapper. Thank you!
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  
+
+=====<Movelist>=====
+
+U - up          x - weak punch         a - weak kick
+D - down        y - medium punch       b - medium kick
+F - forward     z - strong punch       c - strong kick
+B - back        
+s - taunt              
+
+=====<NORMAL>=======
+
+.1 Throw:                     F + x,y or z(near opponent)
+.2 Throw:                     F or B + a,b or c (near opponent)
+
+=====<SPECIAL>======
+
+.Punch wall:                  D,DF,F - x,y or z
+.Absorbing Throw:             D,DF,F - a,b or c
+.Wrecking Ball:               x+x, y+y or z+z (repeatedly) 
+
+=====<HYPER>====
+
+.Dangerous Guy:               D,DF,F - a+b
+.Rock n' Roll:                D,DF,F - x+y

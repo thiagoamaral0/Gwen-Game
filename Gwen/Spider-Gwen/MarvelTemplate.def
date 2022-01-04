@@ -1,0 +1,42 @@
+;=======================================;
+;           {character name}            ;
+;             for WinMUGEN              ;
+;     http://www.scruffydragon.com/     ;
+;=======================================;
+
+[Info]
+name ="Marvel Template"
+displayname ="Spider-Gwen"
+versiondate =04,14,2001
+mugenversion =04,14,2001
+author =""
+pal.defaults =1
+
+[Files]
+sprite   =MarvelTemplate.sff
+anim     =MarvelTemplate.air
+sound    =MarvelTemplate.snd
+stcommon =DCvsMarvelcommon1.cns
+cmd      =MarvelTemplate.cmd
+cns      =MarvelTemplate.cns
+st       =basics.st
+pal1=pal1.act
+pal2=pal2.act
+st1=specials.st
+st2=hypers.st
+st3=overrides.st
+st4=amalgam.st
+
+
+;-----------------------
+;  DCvM Template Files
+;      provided by
+;       Buyog2099
+;(based on MEE template
+;  by Kitsune Sniper)
+;         ***
+;   Thanks, Kitsune!
+;-----------------------
+[Arcade]
+intro.storyboard=
+ending.storyboard=
